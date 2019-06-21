@@ -1,0 +1,42 @@
+header, section, footer, aside, nav, article, figure, figcaption {display: block;}
+body {color: #000000; background-image: url("images/sand.jpg"); background-repeat: x; font-family: Georgia, Times, serif; line-height: 1.4em; margin: 0px; font-size: 1.2em;}
+.wrapper {width: 1350px; margin: auto 10px 10px 10px; padding:auto 0 auto 0; background-image: url("images/sand.jpg");background-size: 300px 300px; background-repeat: no-repeat;}
+form {float: left; padding: 0px 20px 20px 20px; clear:both;}
+input, textarea, select {background-color : #f7ca97;} 
+header {float: center; line-height: 1.6em; width:1250px; height: 190px;  background-image: url("images/capecod.jpg");}
+h1 {text-indent: 0px; width: 940px; height 130px; margin: 0px 2px 5px 2px; padding: 10px; color:black;}
+nav {clear: both; color: #000000; background-color: #aeaca8; height: 60px;}
+nav ul {margin: 0px; padding: 5px 0px 5px 20px;}
+nav li {display: inline; margin-right: 10px; border-left: 1px solid white; padding-left: 10px;}
+nav li a {color: #ffffff; }
+nav li a:hover, nav li a:current {color: #000000 ;}
+.search {border: 1px; float: right; margin-right:20px; color:#ffffff;}
+li {list-style-type: square;}
+article li {list-style: none; background-image: url(images/star.gif); background-repeat: no-repeat; background-position: 0 4px; padding-left: 35px; padding-bottom: 5px;
+            padding-left: 35px; padding-bottom: 5px;}
+article {background-image: url("images/sand.jpg"): background-repeat: no-repeat;}
+article {clear: both; overflow: hidden; width: 100%; color: #000000; padding: 0px;}
+hgroup {margin-top: 10px;}
+figure {float: left; width: 290px; height: 180px; padding: 0px 0px 0px 0px; margin: 10px 10px 30px 10px; border: 2px solid #000000;}
+.email {height: 50px; width: 50px; float: left; margin: 10px 10px 10px 10px; }
+figcaption {font-size: l100%; text-align: left; padding: 0px 0px 10px 0px; margin: 0px 0px 15px 0px;}
+a:visited {color: #c54ae7;}
+a {color: #000000; text-decoration: underline; a:hover;}
+h1, h2, h3 {font-weight: bold;}
+h2 {margin: 10px 0px 5px 0px; padding: 0px; color:#000000;}
+h3 {margin: 0px 0px 10px 0px; color: #000000 ;}
+.container{margin-left:10px;}
+.container .label{display:inline-block; vertical-align: bottom; width:150px; text-align:left; margin-left:5px;  }
+.container input[type="submit"]{margin-left:155px; padding:5px 10px; box-shadow: 0 0 4px white;}
+section.contact {margin: 5px;}
+.mapledressing {float: left; width: 20%; margin-left: 10px; padding: 0px 5px 0 5px;}
+.salad {float: left; width: 20%; padding: 0 5px 0 5px;}
+.vegan {float: left; width: 20%; padding: 0 5px 0 5px;}
+.directions {float: left; width: 100%;}
+.ingredients {float: left; width: 20%; margin-left: 10px; padding: 0px 5px 0 5px;}
+.leftside {float: left; width: 620px; padding: 5px 0 0 5px;}
+.leftside h3 p {float: left;}
+.rightside {float: right; width: 630px; padding-bottom: 10px;}
+.rightside h3  p {float: right;}
+footer {clear: both; color: #000000; background-color: #aeaca8; height: 65px ; font-size: 100%; padding: 0px 0px 15px 10px; }
+.laurie {padding-top: 20px; font-weight: bold;}
